@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+
+
+body {
+    background-image: url("swissbg.jpg");
+    background-size: cover;
+    font-family: 'Holtwood One SC', serif;
+    text-align: center;
+}
+
+.container {
+    border: 4px solid #A9BDCB;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 0px 0px 4px 3px #0B0F12;
+    background: url("mountain.jpg");
+    background-size: cover;
+}
+
+@media screen and (max-width: 1000px) {
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        width: 700px;
+        height: 700px;
+        font-size: 40px;
+
+    }
+
+    .container h1 {
+        font-size: 60px;
+    }
+    .container h2 {
+        font-size: 100px;
+    }
+
+    #increment-btn {
+        width: 440px;
+    }
+
+    #save-btn {
+        width: 440px;
+    }
+
+    #reset-btn {
+        width: 440px;
+    }
+
+} 
+
+#save-el {
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-shadow: 1px 1px 2px black;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+    border: 1px dashed #A9BDCB;
+}
+
+.buttonHover:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 4px 3px #0B0F12;
+    opacity: 0.9;
+    transform: translateY(-3px);
+    transform: scale(1.1);
+}
+
+#increment-btn {
+    background: #3C7194;
+}
+
+#save-btn {
+    background: #24373D;
+}
+
+#reset-btn {
+    background: #3D5E4B;
+}
+

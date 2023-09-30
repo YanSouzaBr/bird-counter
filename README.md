@@ -1,12 +1,21 @@
-# bird-counter
-This was my first attempt at doing a website using javascript. I stylized the website myself.
+# co3274ade9196eadfd92fcdb9
 
-![image](https://github.com/YanSouzaBr/bird-counter/assets/129466666/89f7911a-0c59-4d3e-8170-ed5abd07e7d6)
-While doing a course at Scrimba, our first JavaScript challenge was to create a people counter. I decided to do a 🐦 bird 🐦 counter instead (because i love birds).
+Quick start:
 
+```
+$ npm install
+$ npm start
+````
 
-This wasn't a requirement, but i wanted to challenge myself to make it look good on mobile too. 
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-![image](https://github.com/YanSouzaBr/bird-counter/assets/129466666/a6fae91b-2896-4887-aebd-43492653759a)
-``` i guess it did?```
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
