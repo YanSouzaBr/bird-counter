@@ -1,21 +1,19 @@
-# co3274ade9196eadfd92fcdb9
+# Bird Counter
 
-Quick start:
+Here's the netlify link: https://651879a30c95ec582cc01639--visionary-yeot-9ff57f.netlify.app/
 
-```
-$ npm install
-$ npm start
-````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This was my first attempt at using javascript for a website.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+While doing a course at Scrimba, this was my first challenge using javascript. The challenge consisted of creating a people counter using html, css and javascript only.
 
-Happy Coding!
+The html and javascript I used were based on what I learned on the course, the css I changed to fit my bird themed website (cause I love my birdies 🐦🐦🐦).
+
+![image](https://github.com/YanSouzaBr/bird-counter/assets/129466666/47d3f092-b2fb-4303-81e2-85bf88c1535f)
+
+# Bonus
+
+This wasn't a requirement, but I challenged myself to make it useable on mobile too.
+
+![image](https://github.com/YanSouzaBr/bird-counter/assets/129466666/26654c41-6e20-4775-97f7-f5fda9ff4754)
