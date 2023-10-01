@@ -6,6 +6,8 @@ body {
     background-size: cover;
     font-family: 'Holtwood One SC', serif;
     text-align: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
 }
 
 .container {
