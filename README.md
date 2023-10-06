@@ -8,7 +8,7 @@ This was my first attempt at using javascript for a website.
 
 While doing a course at Scrimba, this was my first challenge using javascript. The challenge consisted of creating a people counter using html, css and javascript only.
 
-The html and javascript I used were based on what I learned on the course, the css I changed to fit my bird themed website (cause I love my birdies 🐦🐦🐦).
+The html and javascript I used were based on what I learned in the course, and the css I changed to fit my bird-themed website (cause I love my birdies 🐦🐦🐦).
 
 ![image](https://github.com/YanSouzaBr/bird-counter/assets/129466666/47d3f092-b2fb-4303-81e2-85bf88c1535f)
 
